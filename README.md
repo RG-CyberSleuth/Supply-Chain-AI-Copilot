@@ -1,4 +1,4 @@
-# Supply Chain AI Copilot
+# Supply Chain AI Copilot..
 
 A Streamlit web application that lets supply chain managers analyze order shipment data and ask operational questions in plain English. Powered by Groq AI (free tier).
 
